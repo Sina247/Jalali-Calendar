@@ -14,3 +14,9 @@ A lightweight and responsive **Jalali (Persian) Calendar** built with **HTML, CS
 - 🔧 **Easy integration** : Add the calendar to any input field with minimal setup.  
 - ⬆️ **Popup position control** : Option to open the calendar popup above or below the input.  
 - 🧩 **Beginner friendly** : Great for learning date manipulation, DOM updates, and UI interactions.
+
+ ---
+ 
+## 🖼️ Screenshot
+
+<img width="347" height="390" alt="Screenshot 2025-12-14 142627" src="https://github.com/user-attachments/assets/e0f3a220-0209-4037-aef4-c3247ed283f7" />
